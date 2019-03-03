@@ -1,0 +1,9 @@
+C:\Users\Teresa\source\repos\CS_Tax\CS_Tax\bin\Debug\CS_Tax.exe.config
+C:\Users\Teresa\source\repos\CS_Tax\CS_Tax\bin\Debug\CS_Tax.exe
+C:\Users\Teresa\source\repos\CS_Tax\CS_Tax\bin\Debug\CS_Tax.pdb
+C:\Users\Teresa\source\repos\CS_Tax\CS_Tax\obj\Debug\CS_Tax.csprojAssemblyReference.cache
+C:\Users\Teresa\source\repos\CS_Tax\CS_Tax\obj\Debug\CS_Tax.Form1.resources
+C:\Users\Teresa\source\repos\CS_Tax\CS_Tax\obj\Debug\CS_Tax.csproj.GenerateResource.cache
+C:\Users\Teresa\source\repos\CS_Tax\CS_Tax\obj\Debug\CS_Tax.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\source\repos\CS_Tax\CS_Tax\obj\Debug\CS_Tax.exe
+C:\Users\Teresa\source\repos\CS_Tax\CS_Tax\obj\Debug\CS_Tax.pdb
