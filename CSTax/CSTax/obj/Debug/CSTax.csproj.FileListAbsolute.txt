@@ -1,0 +1,10 @@
+C:\Users\Teresa\source\repos\CSTax\CSTax\obj\Debug\CSTax.csprojAssemblyReference.cache
+C:\Users\Teresa\source\repos\CSTax\CSTax\obj\Debug\CSTax.Form1.resources
+C:\Users\Teresa\source\repos\CSTax\CSTax\obj\Debug\CSTax.Properties.Resources.resources
+C:\Users\Teresa\source\repos\CSTax\CSTax\obj\Debug\CSTax.csproj.GenerateResource.cache
+C:\Users\Teresa\source\repos\CSTax\CSTax\obj\Debug\CSTax.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\source\repos\CSTax\CSTax\bin\Debug\CSTax.exe.config
+C:\Users\Teresa\source\repos\CSTax\CSTax\bin\Debug\CSTax.exe
+C:\Users\Teresa\source\repos\CSTax\CSTax\bin\Debug\CSTax.pdb
+C:\Users\Teresa\source\repos\CSTax\CSTax\obj\Debug\CSTax.exe
+C:\Users\Teresa\source\repos\CSTax\CSTax\obj\Debug\CSTax.pdb
